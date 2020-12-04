@@ -7,4 +7,4 @@ Sou um desenvolvedor, ainda cursando Redes de Computadores no Instituto Federal.
 >> Discord: KowalskiJr 🐧#6486
 
 ### Minhas Habilidades :mortar_board:
-- Python: 
+- Python: <img src="./images/python.png" width="32" height="32">

@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas Gardini Dias a.k.a Kowalski Jr.</h1>
 <h3 align="center">A (almost) full-stack developer from Brazil!</h3>
 
-- 🌱 I’m currently learning **Mobile JavaScript frameworks like React or Vue but I've not decided yet**
-
 - 💻 About me: **I started to learn programming in 2018 with C# for unity. But only in 2019 i really started to learn. I entered in Instituto Federal Câmpus Catanduva and there learned web development with HTML5, CSS3, JavaScript, PHP and SQL Language.**
 
+- 🌱 I’m currently learning **JavaScript frameworks**
+
 - 📧Contact me: **lucasgardini.dias@hotmail.com or KowalskiJr 🐧#6486 (discord)**
-<br>
-<br>
 <p align="left">Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/lucas-gardini-dias-4b20681b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucas-gardini-dias-4b20681b3" height="30" width="40" /></a>

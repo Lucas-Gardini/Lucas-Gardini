@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Gardini Dias a.k.a Kowalski Jr.</h1>
 <h3 align="center">A (almost) full-stack developer from Brazil!</h3>
 
-- 💻 About me: **I started to learn programming in 2018 with C# for unity. But only in 2019 i really started to learn. I entered in Instituto Federal Câmpus Catanduva and there learned web development with HTML5, CSS3, JavaScript, PHP and SQL Language.**
+- 💻 About me: **I started to learn programming in 2018 with C# for unity. But only in 2019 I really started to learn. I entered in Instituto Federal from São Paulo (BR) and there learned web development with HTML5, CSS3, JavaScript, PHP and SQL Language.**
 
 - 🌱 I’m currently learning **JavaScript frameworks**
 

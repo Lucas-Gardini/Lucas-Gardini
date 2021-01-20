@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript frameworks**
 
-- 📧Contact me: **lucasgardini.dias@hotmail.com or KowalskiJr 🐧#6486 (discord)**
+- 📧 Contact me: **lucasgardini.dias@hotmail.com or KowalskiJr 🐧#6486 (discord)**
 <p align="left">Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/lucas-gardini-dias-4b20681b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucas-gardini-dias-4b20681b3" height="30" width="40" /></a>

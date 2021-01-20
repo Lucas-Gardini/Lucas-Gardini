@@ -33,5 +33,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-gardini&show_icons=true&locale=en&layout=compact" alt="lucas-gardini" /></p>
-<p> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-gardini&show_icons=true&locale=en" alt="lucas-gardini" /></p>

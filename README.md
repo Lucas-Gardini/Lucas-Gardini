@@ -7,7 +7,8 @@
 <br>
 - 📧Contact me: **lucasgardini.dias@hotmail.com or KowalskiJr 🐧#6486 (discord)**
 <br>
-
+<br>
+<p align="left">Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/lucas-gardini-dias-4b20681b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucas-gardini-dias-4b20681b3" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12422391" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12422391" height="30" width="40" /></a>

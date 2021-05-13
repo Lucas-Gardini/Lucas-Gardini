@@ -84,4 +84,5 @@
 <br/>  
 
 ## My Projects and Experiences
-- Youtube Music Downloader, [app](https://youtube-music-downloader-null.herokuapp.com/) [code](https://github.com/Lucas-Gardini/Youtube-Music-Downloader-Nullstack)
+- Youtube Music Downloader, [app](https://youtube-music-downloader-null.herokuapp.com/) | [code](https://github.com/Lucas-Gardini/Youtube-Music-Downloader-Nullstack)
+- My TCC (Final Paper) for [IFSP Campus Catanduva](https://ctd.ifsp.edu.br/) | [code](https://github.com/Lucas-Gardini/TCC-REDES-2021)

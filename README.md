@@ -10,7 +10,10 @@
   
 
 - 🌱 I’m currently learning JavaScript frameworks and maximizing my JavaScript skills  
-  
+
+
+- 🖥️ Check my [portfolio | cv](https://lucasg-portfolio.vercel.app/)
+
 
 - ⚡ Fun fact: I am actually a penguin 🐧, but do not tell anyone about that  
   

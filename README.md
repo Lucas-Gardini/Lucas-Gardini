@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-gardini&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-gardini" /> </p>
 
-- 🔭 I’m currently working on [ReFlasher](https://github.com/Lucas-Gardini/ReFlasher-Study-with-Flashcards)
+- 🔭 I’m currently working on my job and college!
 
-- 🌱 I’m currently learning **Javascript, React, React-Native and Vue**
+- 🌱 I’m currently learning **React, NextJs, NestJs, NuxtJs**
 
 - 👨‍💻 Check my portfolio at [https://lucasg-portfolio.vercel.app/](https://lucasg-portfolio.vercel.app/)
 

@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/kX3SmbH.png" align="center" style="width: 100%" />
 </div>  
   
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Lucas Gardini Dias a.k.a Kowalski Jr🐧</h1>
+<h1 align="center">Hi, I'm Lucas Gardini Dias a.k.a Kowalski Jr🐧</h1>
 <h3 align="center">A (almost) full-stack developer from Brazil!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-gardini&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-gardini" /> </p>
@@ -17,10 +17,10 @@
 
 - 📄 Know about my experiences [https://lucasg-portfolio.vercel.app/resume](https://lucasg-portfolio.vercel.app/resume)
 
-<h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<h2 align="left">Connect with me:
 <p align="left"> <a href="https://www.facebook.com/lucasgardini.dias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/lucasgardinidias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lucasgardini" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12422391" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-<h2 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>

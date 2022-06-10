@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, NextJs, NestJs, NuxtJs**
 
-- 👨‍💻 Check my portfolio at [https://lucasg-portfolio.vercel.app/](https://lucasg-portfolio.vercel.app/)
+- 👨‍💻 Check my portfolio at [https://lucasg-portfolio.vercel.app/](https://lucas-gardini.vercel.app/)
 
 - 📫 How to reach me **lucasgardini.dias@hotmail.com or KowalskiJr 🐧#6486 on Discord!**
 

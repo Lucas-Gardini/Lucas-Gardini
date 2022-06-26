@@ -41,7 +41,3 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 <br><br><br>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-gardini&show_icons=true&locale=en&layout=compact" alt="lucas-gardini" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-gardini&show_icons=true&locale=en" alt="lucas-gardini" /></p>

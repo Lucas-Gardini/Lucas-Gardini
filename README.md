@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=Lucas-Gardini&icon=3&color=3)](https://visitcount.itsvg.in)
 🔭 I’m currently working on a pet related Mobile App<br><br>🌱 I’m currently learning Nestjs with microservices<br><br>❓ Ask me about anything related to web development with VueJs<br><br>⚡ Fun fact: I'm actually a penguin!
-[![](https://visitcount.itsvg.in/api?id=Lucas-Gardini&icon=3&color=3)](https://visitcount.itsvg.in)
+
 
 
 ## 🌐 Socials:

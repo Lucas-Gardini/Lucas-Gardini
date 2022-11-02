@@ -1,8 +1,10 @@
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Lucas-Gardini&&style=flat-square" align="center" />
+<img src="https://media0.giphy.com/media/3IQZsvCbbFU5198dku/giphy.gif" align="center" style="width: 100%" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-gardini&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-gardini" /> </p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Lucas-Gardini&&style=flat-square" align="center" />
+</div>
 
 ### <div align="center">Hi, I'm Lucas Gardini Dias a.k.a **Kowalski Jr**🐧, a Full-Stack system analyst 👨‍💻  working since <u>2022</u> 🚀!
 </div>  

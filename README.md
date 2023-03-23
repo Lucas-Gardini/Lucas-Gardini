@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lucas 🐧 and I'm a Web Developer from Brazil! [![](https://visitcount.itsvg.in/api?id=Lucas-Gardini&icon=3&color=3)](https://visitcount.itsvg.in)</h2>
+<h2 align="left">Hi 👋! My name is Lucas 🐧 and I'm a Web Developer from Brazil!</h2>
 
 ###
 

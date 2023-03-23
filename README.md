@@ -138,11 +138,6 @@
 
 ###
 
-### ✍️ Random Dev Quote
-<div align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-</div>
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qsbhgxp2dxytuqdxzot6a5vvoa&cover_image=true&theme=compact&show_offline=false&background_color=121212" /></div>  
 
 <br/> 

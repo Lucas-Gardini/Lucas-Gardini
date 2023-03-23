@@ -134,8 +134,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Lucas-Gardini/Lucas-Gardini/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qsbhgxp2dxytuqdxzot6a5vvoa&cover_image=true&theme=compact&show_offline=false&background_color=121212" /></div>  

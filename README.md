@@ -1,4 +1,4 @@
-<img src="https://github.com/Lucas-Gardini/Lucas-Gardini/blob/main/lucas-dias-header-black-no-footer.png" width="100%" />
+<img src="https://github.com/Lucas-Gardini/Lucas-Gardini/blob/main/lucas-dias-header-black-no-footer.png?raw=true" width="100%" />
 
 <h2 align="left">Hi 👋! My name is Lucas 🐧 and I'm a Web Developer from Brazil!</h2>
 

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://github.com/Lucas-Gardini/Lucas-Gardini/blob/main/lucas-dias-header.png" width="100%" />
 
 <h2 align="left">Hi 👋! My name is Lucas 🐧 and I'm a Web Developer from Brazil!</h2>
 

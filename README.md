@@ -1,100 +1,60 @@
-<img src="https://github.com/Lucas-Gardini/Lucas-Gardini/blob/main/lucas-dias-header-black-no-footer.png?raw=true" width="100%" />
+# Hello, I'm Lucas Gardini! 👋
 
-<h2 align="left">I code with</h2>
+*Full-Stack TypeScript/.NET Software Developer (Web, Desktop & Mobile)*
 
-###
+## 👨‍💻 About Me
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-</div>
+From **tinkering with computers as a kid** to coding professionally today, my journey has been driven by curiosity and passion. I wrote my first programs in 2019 using Python, which built a strong foundation in problem-solving. Soon after, I discovered **TypeScript** – my true affinity – and never looked back, crafting robust and scalable applications with it ever since. 
 
-###
+I honed my skills through **competitive programming** during college, participating in three programming marathons. These experiences, along with an early project building a restaurant management system in high school, set the stage for my career. In true developer fashion, I'm always looking to **level up** my skills (continuous improvement is my never-ending *training arc* ✨). I love sharing knowledge with my peers and adopting new tools and best practices. 
 
-<h2 align="left">I'm familiar with</h2>
+Outside of work, I'm a tech enthusiast who stays on top of the latest trends. Though I might be a bit of a quiet achiever, I thrive in team environments, contributing ideas and helping bring projects to life. I'm also a gaming and music fan 🎮🎵 (and let's just say a touch of anime inspiration never hurts!). My goal is to keep growing as a developer, **continuously learning** and taking on new challenges on the path to becoming a Tech Lead. 
 
-###
+## 🛠️ Skills
 
-<div align="left">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=black&style=for-the-badge" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-</div>
+- **Languages & Frameworks:**  JavaScript / **TypeScript**, **.NET C#** (including WPF), Node.js, Vue.js, Angular, React, React Native  
+- **Desktop Development:** **Electron**, **Tauri**, WPF (C#/.NET Core)  
+- **Cloud & Infrastructure:** **AWS**, **Oracle Cloud**, Linux servers, Networking  
+- **Web & Automation:** RESTful APIs, Microservices architecture, **Puppeteer**, **Playwright**, Web Scraping  
+- **Testing:** **Vitest**, **Jest**
 
-###
+<!-- Badges for some key technologies -->
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=flat)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)  
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=flat)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=black&style=flat)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?logo=oracle&logoColor=white&style=flat)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white&style=flat)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white&style=flat)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logoColor=white&style=flat)
 
-<h2 align="left">Databases & Queues I use</h2>
+## 📜 Certifications & 🚀 Projects
 
-###
+You can see my certifications and projects at my [Linkedin Profile](https://www.linkedin.com/in/lucasgardini/)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=black&style=for-the-badge" height="40" alt="rabbitmq logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="40" alt="sqlite logo"  />
-</div>
+## 💼 Experience
 
-###
+**Integrativa (Jan 2022 – Present)** – *Catanduva, SP, Brazil*  
+💻 *Senior Web Developer* (2025 – Present) – Leading projects and defining architecture for scalable web systems. In this role I design system **architecture**, build out **microservices** (Node.js/.NET) and **REST APIs** integration, and oversee **cloud infrastructure** and DevOps on AWS/Oracle Cloud. I also mentor team members and ensure our solutions follow best practices in security and performance.
 
-<h2 align="left">Platforms I use</h2>
+💻 *Mid-level Web Developer* (2022 – 2025) – Developed end-to-end features for web and desktop applications. I worked on **API integrations** with external platforms, created web front-ends (Vue.js/Angular) and back-ends (Node.js, .NET), and built desktop apps using Electron and Tauri. I also implemented automation scripts (Python/JavaScript) to streamline processes, developed mobile app prototypes with React Native, and managed cloud servers (AWS, Oracle) for deployment. 
 
-###
+*(Earlier at Integrativa, I started as a Junior Web Developer, quickly progressing by consistently delivering quality code and innovative solutions.)*
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo"  />
-</div>
+## 📊 GitHub Stats
 
-###
+![Lucas Gardini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-Gardini&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Gardini&layout=compact&theme=tokyonight)
 
-<br clear="both">
+## 📫 Contact
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Gardini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Lucas-Gardini&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/lucasgardini) 
+[![Email](https://img.shields.io/badge/Email-lucasgardini.dias%40hotmail.com-0078D4?logo=microsoft-outlook&logoColor=white&style=flat)](mailto:lucasgardini.dias@hotmail.com)  
+**Portfolio:** [**lucasgardini.com**](https://lucasgardini.com) 🌐
 
-###
-
-<br clear="both">
-
-###
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qsbhgxp2dxytuqdxzot6a5vvoa&cover_image=true&theme=compact&show_offline=false&background_color=121212" /></div>  
-
-<br/> 
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+*Thanks for reading my profile README! Feel free to connect or check out my work. Let's build something awesome together.* 😊

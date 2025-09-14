@@ -39,6 +39,7 @@ You can see my certifications and projects at my [Linkedin Profile](https://www.
 
 ## 💼 Experience
 **Asaas (Set 2025 – Present)** – *Joinville, SC, Brazil | Remote*
+
 💻 *Mid-level Web Developer* (2025 - *) – Specialized in building and maintaining a large-scale web application using **Groovy and Grails**, with a strong emphasis on code quality and maintainability. I applied best practices such as clean architecture and performance optimization to ensure long-term stability. My work involved designing scalable features, improving developer experience, and enforcing coding standards through reviews and refactoring, always aiming for robust, elegant, and future-proof solutions.
 
 **Integrativa (Jan 2022 – Aug 2025)** – *Catanduva, SP, Brazil*  

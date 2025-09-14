@@ -38,9 +38,11 @@ Outside of work, I'm a tech enthusiast who stays on top of the latest trends. Th
 You can see my certifications and projects at my [Linkedin Profile](https://www.linkedin.com/in/lucasgardini/)
 
 ## 💼 Experience
+**Asaas (Set 2025 – Present)** – *Joinville, SC, Brazil | Remote*
+💻 *Mid-level Web Developer* (2025 - *) – Specialized in building and maintaining a large-scale web application using **Groovy and Grails**, with a strong emphasis on code quality and maintainability. I applied best practices such as clean architecture and performance optimization to ensure long-term stability. My work involved designing scalable features, improving developer experience, and enforcing coding standards through reviews and refactoring, always aiming for robust, elegant, and future-proof solutions.
 
-**Integrativa (Jan 2022 – Present)** – *Catanduva, SP, Brazil*  
-💻 *Senior Web Developer* (2025 – Present) – Leading projects and defining architecture for scalable web systems. In this role I design system **architecture**, build out **microservices** (Node.js/.NET) and **REST APIs** integration, and oversee **cloud infrastructure** and DevOps on AWS/Oracle Cloud. I also mentor team members and ensure our solutions follow best practices in security and performance.
+**Integrativa (Jan 2022 – Aug 2025)** – *Catanduva, SP, Brazil*  
+💻 *Senior Web Developer* (2025) – Leading projects and defining architecture for scalable web systems. In this role I design system **architecture**, build out **microservices** (Node.js/.NET) and **REST APIs** integration, and oversee **cloud infrastructure** and DevOps on AWS/Oracle Cloud. I also mentor team members and ensure our solutions follow best practices in security and performance.
 
 💻 *Mid-level Web Developer* (2022 – 2025) – Developed end-to-end features for web and desktop applications. I worked on **API integrations** with external platforms, created web front-ends (Vue.js/Angular) and back-ends (Node.js, .NET), and built desktop apps using Electron and Tauri. I also implemented automation scripts (Python/JavaScript) to streamline processes, developed mobile app prototypes with React Native, and managed cloud servers (AWS, Oracle) for deployment. 
 

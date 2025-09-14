@@ -56,7 +56,7 @@ You can see my certifications and projects at my [Linkedin Profile](https://www.
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/lucasgardini) 
-[![Email](https://img.shields.io/badge/Email-lucasgardini.dias%40hotmail.com-0078D4?logo=microsoft-outlook&logoColor=white&style=flat)](mailto:lucasgardini.dias@hotmail.com)  
+[![Email](https://img.shields.io/badge/Email-contato%40lucasgardini.com-0078D4?logo=microsoft-outlook&logoColor=white&style=flat)](mailto:contato@lucasgardini.com)  
 **Portfolio:** [**lucasgardini.com**](https://lucasgardini.com) 🌐
 
 *Thanks for reading my profile README! Feel free to connect or check out my work. Let's build something awesome together.* 😊
